@@ -18,4 +18,3 @@ button.addEventListener('click', () =>{
 let randomQuotes = quotes[Math.floor(Math.random() * quotes.length)]
 h1.innerHTML =  randomQuotes
 })
-let maxWidth = 600;
